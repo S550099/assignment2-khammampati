@@ -6,20 +6,57 @@ The museum's collection was displayed in a spacious room on the third floor of t
 ***
 # ordered list
 ## Airport close to museum
-<ol>
-<li>Indianapolis International Airport  is close to Indiana State Museum </li>
-<li> There are 4 ways to get from Indianapolis Airport (IND) to Indianapolis Museum of Art by bus, taxi, car or towncar.</li>
-<li>It is about 12 miles from Airport</li>
-</ol>
+
+1.Indianapolis International Airport  is close to Indiana State Museum 
+2.There are 4 ways to get from Indianapolis Airport (IND) to Indianapolis Museum of Art by bus, taxi, car or towncar.
+3.It is about 12 miles from Airport
+
 
 ***
 ***
 
 # Unorderd list
-<ul>
-<li>Indiana  Dunes national park</li>
-<li>The  children's museum of Indianapolis</li>
-<li>Indianapolis Zoo</li>
-</ul>
+
+- Indiana  Dunes national park
+- The  children's museum of Indianapolis
+- Indianapolis Zoo
+
+[Aboutme](AboutMe.md)
+ ***
+
+# Table for visiting places in Missouri
+
+Best Places To Visit in 
+
+| Name  Of The City | Location to Visit | Amount of time to spend |
+
+| --- | --- | --- |
+
+|  |  | 2hrs |
+
+|  |  | 1hrs |
+
+|  |  | 3hrs |
+
+|  |  | 1hrs |
+
+***
+# Quotes
+
+> – ***  ***
+
+> – ***  ***
+***
+# code fencing
+
+>How to Comments in CSS?
+
+[comments](  )
+
+```
 
 
+
+```
+
+[code snippet](   )
