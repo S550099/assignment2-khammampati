@@ -21,7 +21,21 @@ The museum's collection was displayed in a spacious room on the third floor of t
 - The  children's museum of Indianapolis
 - Indianapolis Zoo
 
-[Aboutme](AboutMe.md)
+![Aboutme](AboutMe.md)
  ***
  ***
+
+ # Table for Visting places in India
+
+ Best Places To visit in 
+ | Name Of The City | Location to Visit | Amount of Time to Spend|
+ |---|---|---|
+ |Hyderabad|Charminar|1hour|
+ |Kerala|Munna| 3hours|
+ |Tamilnadu| Kodaikanal Lake|5hours|
+ |Vizag|Rushikonda Beach|5hours|
+
+ ***
+ ***
+ 
 
