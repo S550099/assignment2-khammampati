@@ -37,5 +37,7 @@ The museum's collection was displayed in a spacious room on the third floor of t
 
  ***
  ***
- 
+ # Quotes
+ >- *** Make it a rule of life never to regret and never to look back. Regret is an appalling waste of energy; you can’t build on it; it’s only good for wallowing- *Katherine Mansfield* ***
+ >- *** It’s not necessary to take a person’s advice to make him feel good—all you have to do is ask it- *Richard Armour* ***
 
