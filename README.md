@@ -11,8 +11,9 @@ The museum's collection was displayed in a spacious room on the third floor of t
 <li> There are 4 ways to get from Indianapolis Airport (IND) to Indianapolis Museum of Art by bus, taxi, car or towncar.</li>
 <li>It is about 12 miles from Airport</li>
 </ol>
----
----
+
+***
+***
 
 # Unorderd list
 <ul>
