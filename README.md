@@ -23,40 +23,5 @@ The museum's collection was displayed in a spacious room on the third floor of t
 
 [Aboutme](AboutMe.md)
  ***
+ ***
 
-# Table for visiting places in Missouri
-
-Best Places To Visit in 
-
-| Name  Of The City | Location to Visit | Amount of time to spend |
-
-| --- | --- | --- |
-
-|  |  | 2hrs |
-
-|  |  | 1hrs |
-
-|  |  | 3hrs |
-
-|  |  | 1hrs |
-
-***
-# Quotes
-
-> – ***  ***
-
-> – ***  ***
-***
-# code fencing
-
->How to Comments in CSS?
-
-[comments](  )
-
-```
-
-
-
-```
-
-[code snippet](   )
